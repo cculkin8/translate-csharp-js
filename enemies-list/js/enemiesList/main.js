@@ -1,4 +1,3 @@
-// Put your code here
 console.log("My Enemies List")
 const Enemies = [
     {
